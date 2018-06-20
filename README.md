@@ -1,6 +1,6 @@
 Fcoin 交易所api forked from weiliuv/fcoin-python-sdk
 
-### ⚠️你自己的 key 和 secret，不要泄露出去，本程序不对你的财产安全负任何责任⚠️
+### ⚠️保护好你自己的 key 和 secret，本程序不对你的财产安全负任何责任⚠️
 
 #### Clone 项目后请修改 balance.py 将你自己的 key 和 secret 填进去
 ```
