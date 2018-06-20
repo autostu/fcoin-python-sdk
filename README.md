@@ -7,9 +7,16 @@ Fcoin 交易所api forked from weiliuv/fcoin-python-sdk
 python /your/path/to/balance.py
 ```
 
+
 #### 根据资产情况和当前交易价格，全部换算为USDT进行输出：
 ![balance](balance.png)
 
 
 #### 添加到 macOS Today 系统请安装：https://github.com/megabitsenmzq/Today-Scripts
 ![balance_today](balance_today.png)
+
+
+#### 还有一个只获取FT/USDT当前价格的
+```
+python /your/path/to/ftusdt.py
+```
