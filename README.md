@@ -8,10 +8,6 @@ python /your/path/to/balance.py
 ```
 
 #### 根据资产情况和当前交易价格，全部换算为USDT进行输出：
-###### 币种  持仓    折合美元  交易对  当前价
-BTM	0.0006	$0.00	  BTMUSDT	 0.5230
-FT	23.2282	$16.34	FTUSDT	 0.7035
-TOTAL		    $16.34
 ![balance](balance.png)
 
 
