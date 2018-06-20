@@ -1,8 +1,21 @@
 Fcoin 交易所api
 
-文档来源:https://developer.fcoin.com/zh.html#45fa4e00db
+forked from weiliuv/fcoin-python-sdk
 
-使用示例参见:example.py
+## ⚠️你自己的 key 和 secret，不要泄露出去，本程序不对你的财产安全负任何责任⚠️
 
-fcoin.py适用于python2版本
-fcoin3.py适用于python3版本
+## Clone 项目后请修改 balance.py 将你自己的 key 和 secret 填进去
+```
+python balance.py
+```
+
+## 根据资产情况和当前交易价格，全部换算为USDT进行输出：
+
+#### 币种  持仓    折合美元  交易对  当前价
+BTM	0.0006	$0.00	  BTMUSDT	 0.5230
+FT	23.2282	$16.34	FTUSDT	 0.7035
+TOTAL		    $16.34
+
+
+#### 添加到 macOS Today 系统请安装：https://github.com/megabitsenmzq/Today-Scripts
+![balance](balance.png)
