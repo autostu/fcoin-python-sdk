@@ -12,11 +12,13 @@ python /your/path/to/balance.py
 ![balance](balance.png)
 
 
-#### 添加到 macOS Today 系统请安装：https://github.com/megabitsenmzq/Today-Scripts
+
+### 添加到 macOS Today 系统请安装：https://github.com/megabitsenmzq/Today-Scripts
 ![balance_today](balance_today.png)
 
 
-#### 还有一个只获取FT/USDT当前价格的
+
+#### 上图FCoin的数据是这个只获取FT/USDT当前价格的
 ```
 python /your/path/to/ftusdt.py
 ```
