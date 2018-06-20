@@ -13,7 +13,7 @@ python balance.py
 BTM	0.0006	$0.00	  BTMUSDT	 0.5230
 FT	23.2282	$16.34	FTUSDT	 0.7035
 TOTAL		    $16.34
-
+![balance](balance.png)
 
 ##### 添加到 macOS Today 系统请安装：https://github.com/megabitsenmzq/Today-Scripts
-![balance](balance.png)
+![balance_today](balance_today.png)
